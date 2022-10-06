@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> el titulo</title>
+</head>
+<body>
+<hl>Titulo</hl>
+<script>
+var num1 = prompt("kantepuelka dime un numero:")
+alert("eldiablo");
+</script>
+</body>
+</html>
+          
+         
